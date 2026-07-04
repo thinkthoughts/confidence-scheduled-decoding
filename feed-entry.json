@@ -1,0 +1,26 @@
+{
+  "date": "2026-07-04",
+  "source": "arXiv",
+  "identifier": "2606-19348",
+  "title": "Confidence Scheduling Specifies Scalable LLM Serving",
+  "category": "cs.CL",
+  "tags": [
+    "speculative decoding",
+    "LLM serving",
+    "confidence scheduling",
+    "verification budget",
+    "semi-autoregressive generation",
+    "hardware-aware scheduling",
+    "DeepSeek",
+    "DSpark",
+    "DeepSpec",
+    "throughput optimization",
+    "inference systems"
+  ],
+  "status": "draft",
+  "report": "/2606-19348/",
+  "statement": "2606-19348",
+  "repo": "https://github.com/thinkthoughts/confidence-scheduled-decoding",
+  "notebook": "",
+  "image": "/2606-19348/2606-19348.png"
+}

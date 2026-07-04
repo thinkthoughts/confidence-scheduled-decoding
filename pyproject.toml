@@ -1,0 +1,9 @@
+[project]
+name = "confidence-scheduled-decoding"
+version = "0.1.0"
+description = "Notebook scaffolding for confidence-scheduled speculative decoding and verification-resource allocation."
+requires-python = ">=3.10"
+dependencies = ["numpy", "pandas", "matplotlib", "scipy", "jupyter", "nbformat"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
